@@ -48,4 +48,3 @@ To see all the plots we recommend using jupyter lab. `cd` into project directory
 ```python
 jupyter-lab
 ```
->>>>>>> Stashed changes
